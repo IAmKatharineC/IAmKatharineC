@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Katharine, a computer science education researcher. I'm dual-affiliated and work at the Rapsberry Pi Foundation as part of the Raspberry Pi Computing Education Research Centre, as well as studying for my PhD at the University of Glasgow. 
+I'm Katharine, a computer science education researcher. I'm dual-affiliated and work as a Research Scientist at the Rapsberry Pi Foundation as part of the Raspberry Pi Computing Education Research Centre, as well as studying for my PhD at the University of Glasgow. 
 
 <!--
 **IAmKatharineC/IAmKatharineC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
